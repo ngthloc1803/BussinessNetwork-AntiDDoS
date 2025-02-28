@@ -1,3 +1,5 @@
+Do project quá lớn không thể push lên toàn bộ được, dưới đây là mô phỏng nội dung bên trong project
+
 # BussinessNetwork-AntiDDoS
 
 1. Yêu cầu doanh nghiệp 
